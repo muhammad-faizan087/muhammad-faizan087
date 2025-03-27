@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Faizan
-- 👀 I’m a web scraper, web crawler and Front-End Dev from Karachi
+- 👀 I’m a MERN Stack Dev, web scraper and web crawler from Karachi
 - 🌱 I'm persuing Bachelor's Degree in Computer Systems Engineering from NEDUET
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me through my Email: m.faizan11f@gmail.com
